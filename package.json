@@ -1,0 +1,15 @@
+{
+  "name": "03-base-node",
+  "version": "0.0.1",
+  "description": "Tabla de multiplicar genera archivo",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aura",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^17.5.1"
+  }
+}
